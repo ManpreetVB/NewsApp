@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
 
 In the project directory, you can run:
 
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # NewsApp
 Create my own news app fetching api in react
->>>>>>> 0adc4d5143115fd149c0cc9f02445e644e0b830d
+ 0adc4d5143115fd149c0cc9f02445e644e0b830d
